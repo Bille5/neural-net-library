@@ -9,3 +9,9 @@ add_executable(PX5net2
     main.c
     px5_neural_network.c
     px5_neural_network.h)
+    
+    
+    
+if(NOT WIN32)
+    target_link_libraries(PX5net2 PRIVATE m)
+endif()
