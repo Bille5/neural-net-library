@@ -1,0 +1,15 @@
+.vs/
+.idea/
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.suo
+*.user
+CMakeFiles/
+cmake-build-*/
