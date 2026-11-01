@@ -6,7 +6,7 @@ Earlier versions are included to show the development process. At the time, I wa
 
 **How to Run**
 
-Download and run the executable
+Download neural_network_preferences.exe and run it from a console.
 
 or
 
