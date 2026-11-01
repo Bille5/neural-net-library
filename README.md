@@ -5,6 +5,9 @@ Versions range from the original December 24 implementation to January 21. For t
 Earlier versions are included to show the development process. At the time, I wasn't using GitHub for version control, so I saved copies of the project in separate folders at different checkpoints.
 
 **How to Run**
+Download and run the executable
+
+or
 
 Open the Version Tue Jan 21 adding preferances folder in an IDE (I use CLion).
 
