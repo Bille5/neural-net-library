@@ -6,9 +6,9 @@ Earlier versions are included to show the development process. At the time, I wa
 
 **How to Run**
 
-Open the Version Tue Jan 21 adding preferances folder in an IDE.
+Open the Version Tue Jan 21 adding preferances folder in an IDE (I use CLion).
 
-Build and run the PX5NET2 target.
+Build and run the PX5net2 target.
 
 The program will train the neural network and print the results for all four XOR inputs.
 
